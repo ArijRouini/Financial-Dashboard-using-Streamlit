@@ -5,8 +5,5 @@ plotly
 datetime
 yfinance
 streamlit
-plotly.graph_objects 
-from datetime import datetime, timedelta
-plotly.express
-from textblob import TextBlob
+textblob
 requests
